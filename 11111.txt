@@ -1,3 +1,0 @@
-{name: maxim
-last_name: glebov
-}
