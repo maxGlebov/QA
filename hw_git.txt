@@ -17,8 +17,18 @@ GitHub. HW_1
 
 2. Запушить все ветки на внешний репозиторий
 
+git push -u origin Postman
+git push -u origin Jmeter
+git push -u origin CheckLists
+git push -u origin Bag_Reports
+git push -u origin SQL
+git push -u origin Charles
+git push -u origin Mobile_Testing
+
+
 
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
+
 4. Запушить структуру багрепорта на внешний репозиторий
 5. Вмержить ветку Bag Reports в Main
 6. Запушить main на внешний репозиторий.
